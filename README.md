@@ -69,7 +69,7 @@ super-task-manager/
   -  `[HOJE]`
   -  `(3d)` - dias restantes
 
-### ⚡ Prioridades
+###  Prioridades
 ```python
 PRIORITIES = {
     "1": {"name": "Alta", "color": Fore.RED},
