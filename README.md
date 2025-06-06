@@ -118,7 +118,7 @@ Bernardo Oliveira - bernardocher22@gmail.com
 
 --- 
 
-** Link do Projeto**: 
+** Link do Projeto**: https://github.com/BeOliveira08/TurboTaskManager
 
 >**Dica**: Execute com `python -i super_task_manager.py` para modo interativo!
 
