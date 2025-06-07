@@ -128,11 +128,3 @@ Bernardo Oliveira - bernardocher22@gmail.com
 1. **Menu Principal**: `![Menu](url-da-imagem)`
 2. **Lista de Tarefas**: `![Tasks](url-da-imagem)`
 3. **Estatísticas**: `![Stats](url-da-imagem)`
-
----
-
-Este README está otimizado para:
-- SEO com palavras-chave relevantes
-- Visualização perfeita no GitHub
-- Facilidade de compreensão
-- Atração de contribuidores
